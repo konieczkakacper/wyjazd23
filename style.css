@@ -87,7 +87,7 @@ div.container {
 
 }
 ul.list{
-    margin-left: 12%;
+    margin-left: 20%;
     list-style-type: none;
     display: table;
     text-align: left;
@@ -180,9 +180,9 @@ button.styled{
     text-align: center;
 }
 .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
+    padding: 30px;
+    font-size:10px;
+    width: 70px;
     text-align: center;
     text-decoration: none;
 }
@@ -204,4 +204,8 @@ button.styled{
 .fa-instagram {
     background: hotpink;
     color: white;
+}
+.icons
+{
+    font-size: 65px;
 }
